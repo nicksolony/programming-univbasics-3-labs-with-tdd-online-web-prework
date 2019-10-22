@@ -1,6 +1,7 @@
 # Add your variables here
-first_number == 5
-second_number == 4
+first_number = 5
+second_number = 4
 
 sum=first_number + second_number
-difference ==
+difference = first_number - second_number
+product = first_number *
